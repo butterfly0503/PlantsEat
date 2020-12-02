@@ -1,0 +1,2 @@
+# PlantsEat
+nuxt/tailwindcss
